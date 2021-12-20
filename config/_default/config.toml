@@ -70,7 +70,7 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "/Catalyst Circle"
+title = "Catalyst Circle"
 description = "A human sensor array"
 languageName ="English"
 # Weight used for sorting.
