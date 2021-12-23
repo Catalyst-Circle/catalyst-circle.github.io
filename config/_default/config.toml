@@ -1,5 +1,5 @@
-baseURL = "catalystcircle.io" # change this to the name of your new repository
-title = " Catalyst-Circle"
+baseURL = "/Circle" # change this to the name of your new repository
+title = "Catalyst-Circle"
 
 enableRobotsTXT = true
 
