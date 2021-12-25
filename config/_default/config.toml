@@ -1,4 +1,4 @@
-baseURL = "/Circle" # change this to the name of your new repository
+baseURL = "/" # change this to the name of your new repository
 title = "Catalyst-Circle"
 
 enableRobotsTXT = true
