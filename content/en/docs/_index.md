@@ -1,24 +1,23 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "Circle-Admin-Playbook"
+linkTitle: "Circle-Admin-Playbook"
 weight: 20
 menu:
   main:
     weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+# Catalyst Circle:
 
+The Catalyst Circle is a “human sensor array” acting as the representative body for all the different groups participating in Project Catalyst. The Circle that monitors the current state and future plans regarding governance in Catalyst. It detects and discusses concerns, objections and opportunities arising within the Catalyst ecosystem.
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+# Catalyst Circle Members
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+Catalyst Circle Members are elected people to represent the groups and entities within the ecosystem. Each representative is elected for 3 months.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+# Catalyst Circle Admin Team
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
+The Catalyst Circle Admin Team is an emergence of the Catalyst Circles Secretaries, Facilitators and Treasurers which 
 
 
