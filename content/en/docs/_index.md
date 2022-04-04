@@ -1,6 +1,6 @@
 
 ---
-title: "Learn more"
+title: "Welcome to Catalyst Circle"
 linkTitle: "Learn more"
 weight: 20
 menu:
