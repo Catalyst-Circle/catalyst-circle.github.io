@@ -13,8 +13,4 @@ menu:
 
 ## Circle Representatives
 
-### Stakepool Operators
-
-### Cardano Foundation
-
 ### IOG
