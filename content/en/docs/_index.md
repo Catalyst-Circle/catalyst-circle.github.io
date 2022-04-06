@@ -12,5 +12,3 @@ menu:
 ![2022-04-04](https://user-images.githubusercontent.com/25156451/161990136-ab56a4fd-7360-4527-afcf-a9c5365fc158.png)
 
 ## Circle Representatives
-
-### IOG
