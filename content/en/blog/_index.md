@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-linkTitle: "Meetings"
+linkTitle: "Blog"
 menu:
   main:
     weight: 30
