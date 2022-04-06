@@ -3,10 +3,6 @@
 title: "Welcome to Catalyst Circle"
 linkTitle: "Learn more"
 weight: 20
-categories:
-- Catalyst Circle
-tags:
-- Catalyst Circle 3
 menu:
   main:
     weight: 20
