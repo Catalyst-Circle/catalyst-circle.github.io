@@ -17,7 +17,8 @@ resources:
 
 {{< youtube bbZuMZcSn80 >}}
 
-<iframe src="https://github.com/orgs/Catalyst-Circle/projects/8/views/1" title="Prioritized-Problems">
-</iframe>
+## Prioritized-Problems Board
+
+https://github.com/orgs/Catalyst-Circle/projects/8/views/1
 
 
