@@ -13,5 +13,11 @@ resources:
     byline: "Catalyst Circle V3 Meeting 3"
 ---
 
-{{< youtube bbZuMZcSn80 >}}
 > QA-DAO has just published the record of the [Catalyst Circle V3 Meeting 3](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/meeting-3-march-31-2022) which took place on Thursday 31st March 2022. 
+
+{{< youtube bbZuMZcSn80 >}}
+
+<iframe src="https://github.com/orgs/Catalyst-Circle/projects/8/views/1" title="Prioritized-Problems">
+</iframe>
+
+
