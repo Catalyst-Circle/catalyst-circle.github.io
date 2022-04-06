@@ -15,8 +15,6 @@ menu:
 
 ## Circle Representatives
 
-### ADA Voters
-
 ### Community Advisors
 
 ### Stakepool Operators
