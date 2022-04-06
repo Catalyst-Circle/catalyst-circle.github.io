@@ -14,10 +14,6 @@ menu:
 
 ## Circle Representatives
 
-### Funded Proposers
-
-### Toolmakers & Mainatiners
-
 ### ADA Voters
 
 ### Community Advisors
